@@ -1,0 +1,7 @@
+button {
+  background-color: #ccc;
+}
+
+button.clicked {
+  background-color: #f00;
+}

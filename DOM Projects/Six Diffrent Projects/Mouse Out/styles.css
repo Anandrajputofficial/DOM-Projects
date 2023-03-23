@@ -1,0 +1,7 @@
+div {
+  background-color: #ccc;
+}
+
+div.hovered {
+  background-color: #f00;
+}
